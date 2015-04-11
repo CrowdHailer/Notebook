@@ -7,10 +7,14 @@
 - Create basic gulpfile.js in root
 
 ```js
-var gulp = require('gulp');
+var gulp = require('gulp')
+var requireDir = require('require-dir');
 
-gulp.task('default', function() {
-  // place code for your default task here
+// Require all tasks as separate directory files
+var dir = requireDir('./tasks');
+
+gulp.task('hello', function() {
+  console.log('Hello!')
 });
 ```
 
