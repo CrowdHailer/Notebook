@@ -20,3 +20,6 @@ gulp.task('hello', function() {
 
 ### Plugins
 Gulp recommends using node modules where possible. There is a [blacklist](https://github.com/gulpjs/plugins/blob/master/src/blackList.json) of plugins that define behaviour easily available from node modules
+
+##### SASS Compilation
+Example of sass compilation file [link](http://www.mikestreety.co.uk/blog/a-simple-sass-compilation-gulpfilejs)
