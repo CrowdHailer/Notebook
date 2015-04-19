@@ -8,6 +8,7 @@ A few pointers on how to start with a project and what questions to ask
 - What is the problem day to day?
 - What does tomorrow look like? What happens when this is all finished
 - What is the value of the solution? Aim to be an investment not a cost. 
+> price as the cost of admission to the land of tomorrow. *Brennan Dunn*
 - focus on why, why now? 
 
 A few things to clarify
