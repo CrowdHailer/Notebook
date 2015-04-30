@@ -20,7 +20,7 @@ gulp.task('hello', function() {
 
 ### Examples
 - useful but old [gist](https://gist.github.com/mikaelbr/8425025)
-
+- large example [gulpfile](https://github.com/greypants/gulp-starter)
 
 ### Plugins
 Gulp recommends using node modules where possible. There is a [blacklist](https://github.com/gulpjs/plugins/blob/master/src/blackList.json) of plugins that define behaviour easily available from node modules
