@@ -12,3 +12,9 @@ Geo-Location
 2 - position unavailabe
 
 3 - timeout
+
+
+[using geo location](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+
+### Location lookup
+free service [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim)
