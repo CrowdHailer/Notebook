@@ -18,3 +18,8 @@ Geo-Location
 
 ### Location lookup
 free service [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim)
+
+### Geo location accuracy
+[link](http://factually.gizmodo.com/how-precise-is-one-degree-of-longitude-or-latitude-1631241162)
+
+suggestion use 4 or 5 dp
