@@ -1,6 +1,16 @@
 # Notebook
 ### My notes, available and open to contributions
 
+# Managing a website
+
+# Improving website performance
+
+### Reducing HTTP requests.
+**Web fonts** are an external request that cannot be inlined. This [article](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) gives advice for high performance loading of webfonts
+
+# Business
+
+
 # Things without a section so far
 ## List of services to pair with static sites
 This is a good list of services as it stands at the moment. Will have to review as I use them
