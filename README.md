@@ -9,6 +9,15 @@
 **Web fonts** are an external request that cannot be inlined. This [article](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) gives advice for high performance loading of webfonts
 
 # Business
+### Getting work
+Guide to hiring a ruby developer explains ruby vs rails, can share
+https://gun.io/blog/hackers-guide-to-hiring-a-ruby-on-rails-developer/?utm_source=rubyweekly&utm_medium=email
+
+### Discovery process
+The discovery process is expanding the process of scoping so that clients have an actionable out put regardless of wether they carry on with us or not
+
+https://gun.io/blog/charging-for-discovery-process/
+
 
 
 # Things without a section so far
