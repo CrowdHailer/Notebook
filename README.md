@@ -39,3 +39,14 @@ I think this would be worth exploring further in conjunction with errol
 http://blog.codeship.com/five-suggestions-for-building-an-infrastructure-for-innovation/
 
 https://guides.github.com/introduction/flow/
+
+## Browser quirks
+probably going to be a large section
+
+on iphone to make something fire a click event when tapped give it a pointer cursor
+```css
+.clickable-div {
+    cursor: pointer;
+  }
+```
+https://stackoverflow.com/questions/3705937/document-click-not-working-correctly-on-iphone-jquery/17490775#17490775
