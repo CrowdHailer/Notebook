@@ -50,3 +50,7 @@ on iphone to make something fire a click event when tapped give it a pointer cur
   }
 ```
 https://stackoverflow.com/questions/3705937/document-click-not-working-correctly-on-iphone-jquery/17490775#17490775
+
+## jekyll
+rediret after renaming a blog post
+https://help.github.com/articles/redirects-on-github-pages/
