@@ -1,6 +1,15 @@
 # Notebook
 ### My notes, available and open to contributions
 
+# Static requirements optimisations
+This builds upon modern.html
+meta tags. leav in  minimal ui 
+http://absolide.tumblr.com/post/100022548384/the-minimal-ui-is-dead-long-live-the-minimal-ui
+
+Should have a robots.txt
+
+
+
 # Managing a website
 
 # Improving website performance
@@ -50,6 +59,15 @@ on iphone to make something fire a click event when tapped give it a pointer cur
   }
 ```
 https://stackoverflow.com/questions/3705937/document-click-not-working-correctly-on-iphone-jquery/17490775#17490775
+
+on iphone to prevent scrolling after making a page 100%
+```css
+body {
+  # for iphone 
+  position: fixed;
+  # for windows phone
+   -ms-touch-action:none;
+}
 
 ## jekyll
 rediret after renaming a blog post
