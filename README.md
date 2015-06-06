@@ -30,6 +30,12 @@ https://gun.io/blog/charging-for-discovery-process/
 
 
 # Things without a section so far
+
+## Offline resources
+http://jakearchibald.com/2014/offline-cookbook/#on-install-as-a-dependency
+https://github.com/jakearchibald/offline-wikipedia/blob/master/index.js
+https://github.com/filamentgroup/loadCSS/issues
+
 ## List of services to pair with static sites
 This is a good list of services as it stands at the moment. Will have to review as I use them
 http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html
