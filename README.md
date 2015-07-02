@@ -78,3 +78,6 @@ body {
 ## jekyll
 rediret after renaming a blog post
 https://help.github.com/articles/redirects-on-github-pages/
+
+
+http://calendar.perfplanet.com/2013/slow-pages-damage-perception/
