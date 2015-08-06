@@ -24,6 +24,16 @@ Which is equivalent to
 But not
 - `&HashDict.new()`
 
+### Pin Operator
+The pin operator ^ can be used when there is no interest in rebinding a variable but rather in matching against its value prior to the match:
+
+```elixir
+iex> x = 1
+1
+iex> ^x = 2
+** (MatchError) no match of right hand side value: 2
+```
+
 ### GenServer
 Gen servers can handle `calls` and `casts`. A call is synchronous and must respond. A cast is asyncronous and the server won't send a response.
 
