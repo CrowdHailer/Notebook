@@ -37,5 +37,22 @@ iex> ^x = 2
 ### GenServer
 Gen servers can handle `calls` and `casts`. A call is synchronous and must respond. A cast is asyncronous and the server won't send a response.
 
+### Processes
+Create a dummy pid.
+
+This can be done from a charachter list or by using the erlang `:c`(convenience) module. The first number of a pid must be 0 otherwise creation will fail with the following error.
+
+```
+(ArgumentError) argument error
+    :erlang.list_to_pid('<1.2.3>')
+```
+
+This shows that the convenience module uses `list_to_pid/1`
+
+```elixir
+:erlang.list_to_pid('<0.255.0>') == :c.pid(0,255,0)
+# => true
+```
+
 ### Testing
 Interesting behaviour for [setup macros](http://elixir-lang.org/getting-started/mix-otp/agent.html)
