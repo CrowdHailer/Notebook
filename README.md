@@ -14,6 +14,9 @@ Should have a robots.txt
 
 # Improving website performance
 
+### Images as a service
+http://confreaks.tv/videos/rubyconf2015-your-own-images-as-a-service
+
 ### Reducing HTTP requests.
 **Web fonts** are an external request that cannot be inlined. This [article](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) gives advice for high performance loading of webfonts
 
