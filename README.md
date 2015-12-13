@@ -84,3 +84,6 @@ https://help.github.com/articles/redirects-on-github-pages/
 
 
 http://calendar.perfplanet.com/2013/slow-pages-damage-perception/
+
+handling security
+https://www.youtube.com/watch?v=9WuP4KcDBpI
