@@ -87,3 +87,8 @@ http://calendar.perfplanet.com/2013/slow-pages-damage-perception/
 
 handling security
 https://www.youtube.com/watch?v=9WuP4KcDBpI
+
+## talks resources and people
+- [97 things every programmer should know](http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know)
+- [Epigrams on Programming](https://en.wikipedia.org/wiki/Epigrams_on_Programming)
+- [Power use of Value in DDD](http://www.infoq.com/presentations/Value-Objects-Dan-Bergh-Johnsson)
