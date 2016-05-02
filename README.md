@@ -77,6 +77,7 @@ body {
   # for windows phone
    -ms-touch-action:none;
 }
+```
 
 ## jekyll
 rediret after renaming a blog post
