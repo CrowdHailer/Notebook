@@ -1,6 +1,8 @@
 # Notebook
 ### My notes, available and open to contributions
 
+hiddent input value=false to make checkboxes send negative data
+
 # Static requirements optimisations
 This builds upon modern.html
 meta tags. leav in  minimal ui 
